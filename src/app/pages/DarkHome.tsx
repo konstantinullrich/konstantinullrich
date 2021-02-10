@@ -11,7 +11,7 @@ function DarkHome() {
                         <GlitchText glitch='Konstantin Ullrich'>Konstantin Ullrich</GlitchText>
                     </h3>
                     <p>
-                        Cryptography Engineer
+                        Software Engineer
                     </p>
                 </header>
             </section>
